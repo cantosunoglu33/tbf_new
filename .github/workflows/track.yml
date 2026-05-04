@@ -1,4 +1,4 @@
-name: TBF Track
+name: track
 
 on:
   workflow_dispatch:
